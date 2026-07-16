@@ -24,41 +24,32 @@ I am an Associate Professor in the Department of Applied Mechanics and Engineeri
 
 ## Education
 
-* **Ph.D. in Solid Mechanics**, Peking University, 2021
-* **B.S. in Theoretical and Applied Mechanics**, Sun Yat-sen University, 2015
+* Ph.D. in Solid Mechanics, Peking University, 2021
+* B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
 
 ## Professional Experience
 
 ### Associate Professor
 
-**Sun Yat-sen University**
+Sun Yat-sen University, 
 *December 2023 – Present*
 
-* Conduct research on smart materials and wave manipulation.
-* Supervise graduate students and undergraduate researchers.
-* Teach courses in mechanics and numerical methods.
+- Conduct research on smart materials and wave manipulation.
+- Supervise graduate students and undergraduate researchers.
+- Teach courses in mechanics and numerical methods.
 
 ### Postdoctoral Fellow
 
-**Peking University**
+Peking University, 
 *September 2021 – November 2023*
 
-* Conducted research in solid mechanics and smart structures.
-* Developed theoretical and computational models for coupled multiphysics systems.
+- Conducted research in solid mechanics and smart structures.
+- Developed theoretical and computational models for coupled multiphysics systems.
 
 ## Research Interests
 
 * Wave dynamics in materials and structures
-* Piezoelectric resonators and shunt circuits
-* Nonlinear vibration and control
-* Multiphysics coupling
 * Acoustic and elastic metamaterials
 * Structural health monitoring
 
-## Contact
 
-Department of Mechanics
-School of Aeronautics and Astronautics
-Sun Yat-sen University
-
-Email: [your_email@sysu.edu.cn](mailto:your_email@sysu.edu.cn)
