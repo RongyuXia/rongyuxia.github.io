@@ -19,12 +19,12 @@ I am an Associate Professor in the Department of Applied Mechanics and Engineeri
 * Acoustic and elastic metamaterials
 * Structural health monitoring
 
-### Professional Experience
+### 💼Professional Experience
 
 - December 2023 – Present, *Associate Professor* of Sun Yat-sen University
 - September 2021 – November 2023, *Postdoctoral Fellow* of Peking University
 
-### Education
+### 🎓Education
 
 - Ph.D. in Solid Mechanics, Peking University, 2021
 - B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
