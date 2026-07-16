@@ -15,41 +15,19 @@ Our research combines theoretical, computational, and experimental approaches to
 
 I am an Associate Professor in the Department of Applied Mechanics and Engineering at Sun Yat-sen University. My research interests include:
 
-* Piezoelectric materials and structures
-* Electromechanical coupling
-* Nonlinear dynamics and vibration
-* Wave propagation and manipulation
-* Acoustic and elastic metamaterials
-* Smart structures and devices
-
-## Education
-
-* Ph.D. in Solid Mechanics, Peking University, 2021
-* B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
-
-## Professional Experience
-
-### Associate Professor
-
-Sun Yat-sen University, 
-*December 2023 – Present*
-
-- Conduct research on smart materials and wave manipulation.
-- Supervise graduate students and undergraduate researchers.
-- Teach courses in mechanics and numerical methods.
-
-### Postdoctoral Fellow
-
-Peking University, 
-*September 2021 – November 2023*
-
-- Conducted research in solid mechanics and smart structures.
-- Developed theoretical and computational models for coupled multiphysics systems.
-
-## Research Interests
-
 * Wave dynamics in materials and structures
 * Acoustic and elastic metamaterials
 * Structural health monitoring
+
+### Education
+
+- Ph.D. in Solid Mechanics, Peking University, 2021
+- B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
+
+### Professional Experience
+
+- *December 2023 – Present*, Associate Professor of Sun Yat-sen University
+- *September 2021 – November 2023*, Postdoctoral Fellow of Peking University
+
 
 
