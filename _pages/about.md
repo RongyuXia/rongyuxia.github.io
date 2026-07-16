@@ -15,9 +15,9 @@ Our research combines theoretical, computational, and experimental approaches to
 
 I am an Associate Professor in the Department of Applied Mechanics and Engineering at Sun Yat-sen University. My research interests include:
 
-* Wave dynamics in materials and structures
-* Acoustic and elastic metamaterials
-* Structural health monitoring
+* Wave Dynamics in Materials and Structures
+* Elastic Metamaterials
+* Structural Health Monitoring
 
 ### 💼 Professional Experience
 
@@ -26,8 +26,8 @@ I am an Associate Professor in the Department of Applied Mechanics and Engineeri
 
 ### 🎓 Education
 
-- Ph.D. in Solid Mechanics, [Peking University](http://www.pku.edu.cn/), 2021
-- B.S. in Theoretical and Applied Mechanics, [Sun Yat-sen University](https://www.sysu.edu.cn/), 2015
+- Ph.D. in Solid Mechanics, Peking University, 2021
+- B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
 
 
 
