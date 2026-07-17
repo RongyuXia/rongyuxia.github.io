@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Xia Group at Sun Yat-sen University.
+Welcome to the Xia Group at Sun Yat-sen University. 
 
 Our research combines theoretical, computational, and experimental approaches to advance the understanding of wave dynamics in materials and structures. Guided by analytical modeling and numerical simulations, we exploit smart materials and multiphysics coupling to develop novel structures and devices with exceptional and tunable performance.
 
