@@ -26,8 +26,8 @@ I am currently an Associate Professor in the Department of Applied Mechanics and
 
 ### 🎓 Education
 
-- Ph.D. in Solid Mechanics, Peking University, 2021
-- B.S. in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
+- PhD in Solid Mechanics, Peking University, 2021
+- BEng in Theoretical and Applied Mechanics, Sun Yat-sen University, 2015
 
 ## Open Positions
 
