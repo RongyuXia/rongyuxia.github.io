@@ -1,29 +1,103 @@
 {% include base_path %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-          <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
-          </li>
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+
+    <button><span class="navicon"></span></button>
+
+    <ul class="visible-links">
+
+      <!-- Site title -->
+      <li class="masthead__menu-item masthead__menu-item--lg persist
+          {% if page.lang == 'zh' and page.url == '/zh/' %}
+            selected
+          {% elsif page.lang != 'zh' and (page.url == '/' or page.url == '/index.html') %}
+            selected
+          {% endif %}">
+
+        {% if page.lang == 'zh' %}
+          <a href="{{ base_path }}/zh/">{{ site.title }}</a>
+        {% else %}
+          <a href="{{ base_path }}/">{{ site.title }}</a>
+        {% endif %}
+
+      </li>
+
+
+      <!-- Navigation -->
+      {% if page.lang == "zh" %}
+        {% assign navigation = site.data.navigation.main_zh %}
+      {% else %}
+        {% assign navigation = site.data.navigation.main_en %}
+      {% endif %}
+
+
+      {% for link in navigation %}
+
+        {% if link.url contains 'http' %}
+          {% assign domain = '' %}
+        {% else %}
+          {% assign domain = base_path %}
+        {% endif %}
+
+        <li class="masthead__menu-item
+            {% if page.url == link.url %}selected{% endif %}">
+
+          <a href="{{ domain }}{{ link.url }}">
+            {{ link.title }}
+          </a>
+
+        </li>
+
+      {% endfor %}
+
+
+      <!-- Theme switch -->
+      <li id="theme-toggle" class="masthead__menu-item persist tail">
+
+        <a role="button" aria-labelledby="theme-icon">
+
+          <i id="theme-icon"
+             class="fa-solid fa-sun"
+             aria-hidden="true"
+             title="toggle theme"></i>
+
+        </a>
+
+      </li>
+
+      <!-- Language switch -->
+      <li class="masthead__menu-item persist">
+
+        {% if page.lang == "zh" %}
+
+          {% if page.en_url %}
+            <a href="{{ base_path }}{{ page.en_url }}" title="English">EN</a>
+          {% else %}
+            <a href="{{ base_path }}/" title="English">EN</a>
+          {% endif %}
+
+        {% else %}
+
+          {% if page.zh_url %}
+            <a href="{{ base_path }}{{ page.zh_url }}" title="中文">中</a>
+          {% else %}
+            <a href="{{ base_path }}/zh/" title="中文">中</a>
+          {% endif %}
+
+        {% endif %}
+
+      </li>
+
+    </ul>
+
+
+    <ul class="hidden-links hidden"></ul>
+
+  </nav>
+</div>
+
   </div>
 </div>

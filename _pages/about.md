@@ -2,6 +2,8 @@
 permalink: /
 
 author_profile: true
+lang: en
+zh_url: /zh/
 redirect_from: 
   - /about/
   - /about.html
@@ -22,7 +24,7 @@ I am currently an Associate Professor in the Department of Applied Mechanics and
 ### 💼 Professional Experience
 
 - December 2023 – Present, *Associate Professor* of [Sun Yat-sen University](https://www.sysu.edu.cn/)
-- September 2021 – November 2023, *Postdoctoral Researchers* of [Peking University](http://www.pku.edu.cn/)
+- September 2021 – November 2023, *Postdoctoral Researcher* of [Peking University](http://www.pku.edu.cn/)
 
 ### 🎓 Education
 
