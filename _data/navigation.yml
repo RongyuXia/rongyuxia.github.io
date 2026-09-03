@@ -17,8 +17,8 @@ main_en:
   - title: "Publications"
     url: /publications/
     
-  - title: "News"
-    url: /news/
+  # - title: "News"
+  #   url: /news/
         
 main_zh:
   - title: "研究方向"
