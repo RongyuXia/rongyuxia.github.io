@@ -33,7 +33,7 @@ I am currently an Associate Professor in the Department of Applied Mechanics and
 
 ## Open Positions
 
-We are always looking for **highly motivated** students and postdoctoral researchers interested in wave dynamics, smart materials, and nonlinear mechanics.
+We are always looking for **highly motivated** students and postdoctoral researchers interested in wave dynamics, smart materials, non-destructive testing, and nonlinear mechanics.
 
 
 
